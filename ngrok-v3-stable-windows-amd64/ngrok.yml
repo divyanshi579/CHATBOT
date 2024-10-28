@@ -1,0 +1,8 @@
+authtoken:2mrxbk8jyEVtrNpfcbS5SPng1he_5yMwVGuVpHTG3h6KvtuPK
+tunnels:
+  web:
+    proto: http
+    addr: 8000
+  api:
+    proto: http
+    addr: 5000

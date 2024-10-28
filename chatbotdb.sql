@@ -1,0 +1,1 @@
+SELECT * FROM chatbotdb.order_tracking;
